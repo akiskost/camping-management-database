@@ -1,0 +1,1 @@
+# camping-management-database
